@@ -35,24 +35,4 @@ Through this project, you will:
 * App conforms to common standards found in the Android Nanodegree General Project Guidelines.
 * App utilizes stable release versions of all libraries, Gradle, and Android Studio.
 
-## Screenshot
-<h3 align="center">--- Portrait Mode ---</h3>
-<br/>
-
-<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/1.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/2.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/3.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/4.png" alt="HOME" width="20%" height="20%" hspace="20">
-
-<h3 align="center">--- Landscape Mode ---</h3>
-<br/>
-
-<p align="center">
-<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/6.png" alt="HOME" width="90%" height="90%">
-  </p>
-  
-<br/><br/><br/><br/>
-
-<p align="center">
-<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/7.png" alt="HOME" width="90%" height="90%">
-  </p>
-
-## Note
-Gradle version used is 3.5.2.
+#This Project Was Done For Udacity By Pratap Kumar Kuchi
